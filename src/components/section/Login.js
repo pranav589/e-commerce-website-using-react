@@ -38,7 +38,7 @@ const Login = () => {
           <Form.Control type="password" placeholder="Password" required onChange={passwordHandler} value={password}/>
         </Form.Group>
         <Form.Group controlId="formBasicCheckbox">
-          <Form.Check type="checkbox" label="Check me out" />
+          <Form.Check type="checkbox" label="Remember me " />
         </Form.Group>
         {email!=="" && password!=="" ?(<Link to="/"><Button variant="primary" type="submit">
           Login
