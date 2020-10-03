@@ -9,9 +9,9 @@ export class DataProvider extends Component {
         _id: "1",
         title: "Nike Shoes 01",
         src: "https://www.upsieutoc.com/images/2020/06/27/img1.jpg",
-        description: "UI/UX designing, html css tutorials",
+        description: "This is the description for the Nike shoes",
         content:
-          "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
+          "This is the content of the Nike shoes. The best in the market. Light-weight design and  stylish wear..",
         price: 23,
         colors: ["red", "black", "crimson", "teal"],
         count: 1
@@ -20,9 +20,9 @@ export class DataProvider extends Component {
         _id: "2",
         title: "Nike Shoes 02",
         src: "https://www.upsieutoc.com/images/2020/06/27/img2.jpg",
-        description: "UI/UX designing, html css tutorials",
+        description: "This is the description for the Nike shoes",
         content:
-          "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
+          "This is the content of the Nike shoes. The best in the market.  Light-weight design and stylish wear.",
         price: 19,
         colors: ["red", "crimson", "teal"],
         count: 1
@@ -31,9 +31,9 @@ export class DataProvider extends Component {
         _id: "3",
         title: "Nike Shoes 03",
         src: "https://www.upsieutoc.com/images/2020/06/27/img3.jpg",
-        description: "UI/UX designing, html css tutorials",
+        description: "This is the description for the Nike shoes",
         content:
-          "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
+          "This is the content of the Nike shoes. The best in the market. Light-weight design and stylish wear.",
         price: 50,
         colors: ["lightblue", "white", "crimson", "teal"],
         count: 1
@@ -42,9 +42,9 @@ export class DataProvider extends Component {
         _id: "4",
         title: "Nike Shoes 04",
         src: "https://www.upsieutoc.com/images/2020/06/27/img4.jpg",
-        description: "UI/UX designing, html css tutorials",
+        description: "This is the description for the Nike shoes",
         content:
-          "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
+          "This is the content of the Nike shoes. The best in the market. Light-weight design and stylish wear.",
         price: 15,
         colors: ["orange", "black", "crimson", "teal"],
         count: 1
@@ -53,9 +53,9 @@ export class DataProvider extends Component {
         _id: "5",
         title: "Nike Shoes 05",
         src: "https://www.upsieutoc.com/images/2020/06/27/img5.jpg",
-        description: "UI/UX designing, html css tutorials",
+        description: "This is the description of the Nike shoes",
         content:
-          "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
+          "This is the content of the Nike shoes. The best in the market. Light-weight design and stylish wear.",
         price: 10,
         colors: ["orange", "black", "crimson", "teal"],
         count: 1
@@ -64,9 +64,9 @@ export class DataProvider extends Component {
         _id: "6",
         title: "Nike Shoes 06",
         src: "https://www.upsieutoc.com/images/2020/06/27/img6.jpg",
-        description: "UI/UX designing, html css tutorials",
+        description: "This is the description of the Nike shoes",
         content:
-          "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
+          "This is the content of the Nike shoes. The best in the market. Light-weight design and stylish wear.",
         price: 17,
         colors: ["orange", "black", "crimson", "teal"],
         count: 1
